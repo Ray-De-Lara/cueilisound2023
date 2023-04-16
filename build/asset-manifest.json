@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/cueilisound2023/static/css/main.d300cf70.css",
+    "main.js": "/cueilisound2023/static/js/main.e57eadcc.js",
+    "static/media/fa-solid-900.svg": "/cueilisound2023/static/media/fa-solid-900.19246336eb35c8d4fb59.svg",
+    "static/media/fa-brands-400.svg": "/cueilisound2023/static/media/fa-brands-400.278446d862aaeffb3f59.svg",
+    "static/media/fa-solid-900.eot": "/cueilisound2023/static/media/fa-solid-900.f06e568e0195a8a577d5.eot",
+    "static/media/fa-solid-900.ttf": "/cueilisound2023/static/media/fa-solid-900.81853c2fb712de98ef66.ttf",
+    "static/media/fa-regular-400.svg": "/cueilisound2023/static/media/fa-regular-400.a1cbfecc8d05e52d1774.svg",
+    "static/media/fa-brands-400.eot": "/cueilisound2023/static/media/fa-brands-400.f3a4f7eb2dc18cd322fb.eot",
+    "static/media/fa-brands-400.ttf": "/cueilisound2023/static/media/fa-brands-400.9bced9316ed8397fa186.ttf",
+    "static/media/logo.png": "/cueilisound2023/static/media/logo.f87a0678f1a40fcccfb8.png",
+    "static/media/fa-solid-900.woff": "/cueilisound2023/static/media/fa-solid-900.0239b22511e2cbe0741a.woff",
+    "static/media/fa-brands-400.woff": "/cueilisound2023/static/media/fa-brands-400.3696430def234662756a.woff",
+    "static/media/fa-solid-900.woff2": "/cueilisound2023/static/media/fa-solid-900.c2b7c03209f0d3558e85.woff2",
+    "static/media/fa-brands-400.woff2": "/cueilisound2023/static/media/fa-brands-400.97120c2696ac6694632d.woff2",
+    "static/media/gallery-img2.jpg": "/cueilisound2023/static/media/gallery-img2.f8ae3e5999efb6ba8904.jpg",
+    "static/media/loading.gif": "/cueilisound2023/static/media/loading.c4a85e48eb0916b08b57.gif",
+    "static/media/fa-regular-400.eot": "/cueilisound2023/static/media/fa-regular-400.dd9a12163ec6ab0d1bf1.eot",
+    "static/media/fa-regular-400.ttf": "/cueilisound2023/static/media/fa-regular-400.b532fab9650d3b7c90a0.ttf",
+    "static/media/fa-regular-400.woff": "/cueilisound2023/static/media/fa-regular-400.95352b573931aa75b5b6.woff",
+    "static/media/fa-regular-400.woff2": "/cueilisound2023/static/media/fa-regular-400.95dbe63555424726ce0c.woff2",
+    "static/media/flexslider-icon.svg": "/cueilisound2023/static/media/flexslider-icon.603822aa792a077c03dd.svg",
+    "static/media/slick.svg": "/cueilisound2023/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/flexslider-icon.eot": "/cueilisound2023/static/media/flexslider-icon.0c4bb125c0f3d608f400.eot",
+    "static/media/slick.eot": "/cueilisound2023/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/flexslider-icon.ttf": "/cueilisound2023/static/media/flexslider-icon.c6c9e9e5197006950550.ttf",
+    "static/media/slick.ttf": "/cueilisound2023/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/cueilisound2023/index.html",
+    "static/media/slick.woff": "/cueilisound2023/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/flexslider-icon.woff": "/cueilisound2023/static/media/flexslider-icon.b5aefbb787e9e5f6aa2a.woff",
+    "main.d300cf70.css.map": "/cueilisound2023/static/css/main.d300cf70.css.map",
+    "main.e57eadcc.js.map": "/cueilisound2023/static/js/main.e57eadcc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d300cf70.css",
+    "static/js/main.e57eadcc.js"
+  ]
+}
