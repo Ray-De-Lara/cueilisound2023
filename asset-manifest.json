@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cueilisound2023/static/css/main.d300cf70.css",
-    "main.js": "/cueilisound2023/static/js/main.e57eadcc.js",
+    "main.js": "/cueilisound2023/static/js/main.7905d65a.js",
     "static/media/fa-solid-900.svg": "/cueilisound2023/static/media/fa-solid-900.19246336eb35c8d4fb59.svg",
     "static/media/fa-brands-400.svg": "/cueilisound2023/static/media/fa-brands-400.278446d862aaeffb3f59.svg",
     "static/media/fa-solid-900.eot": "/cueilisound2023/static/media/fa-solid-900.f06e568e0195a8a577d5.eot",
@@ -30,10 +30,10 @@
     "static/media/slick.woff": "/cueilisound2023/static/media/slick.295183786cd8a1389865.woff",
     "static/media/flexslider-icon.woff": "/cueilisound2023/static/media/flexslider-icon.b5aefbb787e9e5f6aa2a.woff",
     "main.d300cf70.css.map": "/cueilisound2023/static/css/main.d300cf70.css.map",
-    "main.e57eadcc.js.map": "/cueilisound2023/static/js/main.e57eadcc.js.map"
+    "main.7905d65a.js.map": "/cueilisound2023/static/js/main.7905d65a.js.map"
   },
   "entrypoints": [
     "static/css/main.d300cf70.css",
-    "static/js/main.e57eadcc.js"
+    "static/js/main.7905d65a.js"
   ]
 }
